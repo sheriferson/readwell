@@ -1,5 +1,7 @@
 # readwell
 
+***This project is on hold as it seems like the Goodreads API is in a bad state with no hope of improvement. As far as I can tell, the API calls consistently return erroneous data - for example, the number of shelves doesn't match my number of shelves, and the number of books in each shelf is way off.***
+
 `readwell` is a lightweight Python script with functions to interact with the [Goodreads][] [API][].
 
 [Goodreads]: https://www.goodreads.com/ "Goodreads"
